@@ -1,2 +1,6 @@
-# WineDescriptionsProject
-NLP and Unsupervised Learning on Wine Enthusiast Descriptions
+# WineEnthusiastProject
+
+Initial, EDA, Clustering, Classifying, And Predicting!
+
+
+Mark Murgia
