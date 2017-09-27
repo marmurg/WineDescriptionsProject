@@ -1,6 +1,6 @@
-# WineEnthusiastProject
+# Wine Enthusiast Project
 
-Initial, EDA, Clustering, Classifying, And Predicting!
+Initial, EDA, NLP, and Clustering!
 
 
 Mark Murgia
